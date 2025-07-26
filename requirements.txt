@@ -1,0 +1,6 @@
+langchain
+langchain-community
+ollama
+numpy
+faiss-cpu
+tiktoken
